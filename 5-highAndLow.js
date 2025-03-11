@@ -1,5 +1,7 @@
-function highAndLow(numbers){
-    Int32Array [int(numbers)]
-    return numbers
-}
-console.log(highAndLow("1 3 5 4 -6 5"));
+// function highAndLow(numbers){
+//     const y = numbers.split(" ").map(Number)
+//     
+// }
+
+const highAndLow = (numbers) => Math.max(...numbers.split(" ").map(Number))+" "+Math.min(...numbers.split(" ").map(Number))
+console.log(highAndLow('1 2 3 4 5 -3'));
