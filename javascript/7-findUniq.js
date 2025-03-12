@@ -8,4 +8,4 @@ function findUniq(arr) {
     }
 }
 
-console.log(findUniq([ 2,0.411,2,2]));
+console.log(findUniq([ 3,3,"2",2,2]));
