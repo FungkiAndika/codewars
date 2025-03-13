@@ -5,7 +5,7 @@
 
 // const makeNegative = (num) => num > 0 ? -num : num;
 
-// SORTER
+// SHORT
 function makeNegative(num) {
     return -Math.abs(num)
 }
