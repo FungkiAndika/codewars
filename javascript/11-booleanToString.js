@@ -7,5 +7,6 @@
 // }
 
 // ONE LINE SCRIPT
-const booleanToString = (b) => b == Boolean | b == true ? b.toString() : b = "false";
+// const booleanToString = (b) => b == Boolean | b == true ? b.toString() : b = "false";
+const booleanToString = b => (b == true).toString() 
 console.log(booleanToString());
