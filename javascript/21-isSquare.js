@@ -1,5 +1,10 @@
-function isSquare(n) {
-    const sqrt = Math.sqrt(n)
-    return n < 0 ? n+": Negative numbers cannot be square numbers": Number.isInteger(sqrt) ? n+" is a square number "+"("+sqrt+" * "+sqrt+")" :n+" is not a square number"
-}
-console.log(isSquare(43));
+// function isSquare(n) {
+//     const sqrt = Math.sqrt(n)
+//     if (n < 0) return false
+//     if (n == 0) return true
+//     return n < 0 ? n+": Negative numbers cannot be square numbers": Number.isInteger(sqrt) ? n+" is a square number "+"("+sqrt+" * "+sqrt+")" && true : n+" is not a square number" && false
+// }
+
+// ONE LINE
+const isSquare = n => n < 0 ? false : Number.isInteger(Math.sqrt(n))
+console.log(isSquare(33));
