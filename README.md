@@ -34,5 +34,6 @@ The solutions in this repository are written in various programming languages, i
 ## Acknowledgments
 
 - [Codewars](https://www.codewars.com/) for providing the challenges.
+- ![Codewars Badge](https://www.codewars.com/users/FungkiAndika/badges/small)
 
 
