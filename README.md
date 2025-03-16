@@ -1,4 +1,4 @@
-# Codewars Challenge Scripts
+# Codewars Challenge
 
 Welcome to the Codewars Challenge Scripts repository! This repository contains solutions to various coding challenges from [Codewars](https://www.codewars.com/).
 
@@ -30,8 +30,6 @@ Navigate to the directory of the language you are interested in and run the scri
 The solutions in this repository are written in various programming languages, including but not limited to:
 
 - JavaScript
-
-Feel free to explore the different directories to see the solutions in each language.
 
 ## Acknowledgments
 
