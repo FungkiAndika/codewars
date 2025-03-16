@@ -6,5 +6,6 @@
 // }
 
 // ONE LINE
+// for return true or false
 const isSquare = n => n < 0 ? false : Number.isInteger(Math.sqrt(n))
 console.log(isSquare(33));
