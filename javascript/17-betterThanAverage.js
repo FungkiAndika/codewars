@@ -3,4 +3,6 @@
 // }
 
 const betterThanAverage = (classPoints, yourPoints) => classPoints.reduce((a,b) => a+b)/classPoints.length < yourPoints
-console.log(betterThanAverage([100, 40, 34, 57, 29, 72, 57, 88], 75));
+console.log(betterThanAverage([100, 40, 34, 57, 29, 72, 57, 88], 75)); // true
+console.log(betterThanAverage([100, 40, 34, 57, 29, 72, 57, 88], 100)); // true
+console.log(betterThanAverage([100, 40, 34, 57, 29, 72, 57, 88], 50)); // false

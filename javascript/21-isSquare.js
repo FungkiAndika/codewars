@@ -8,4 +8,8 @@
 // ONE LINE
 // for return true or false
 const isSquare = n => n < 0 ? false : Number.isInteger(Math.sqrt(n))
-console.log(isSquare(33));
+console.log(isSquare(33)); // false
+console.log(isSquare(0)); // true
+console.log(isSquare(25)); // true
+console.log(isSquare(-1)); // false
+console.log(isSquare(3)); // false

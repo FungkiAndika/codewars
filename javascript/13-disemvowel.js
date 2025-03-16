@@ -4,4 +4,4 @@ function disemvowel(str) {
 
 // ALTER :
 // const disemvowel = str => str.replace(/[auieo]/gi,'')
-console.log(disemvowel("No offense but,\nYour writing is among the worst I've ever read"));
+console.log(disemvowel("No offense but,\nYour writing is among the worst I've ever read")); // "N ffns bt,\nYr wrtng s mng th wrst 'v vr rd"

@@ -16,6 +16,6 @@
 // usdcny = $ => `${($*6.75).toFixed(2)} Chinese Yuan`
 const usdcny = (usd) => (usd*6.75).toFixed(2)+" Chinese Yuan"
 
-console.log(usdcny(15));
-console.log(usdcny(6758));
-console.log(usdcny(1000));
+console.log(usdcny(15)); // 101.25 Chinese Yuan
+console.log(usdcny(6758)); // 45616.50 Chinese Yuan
+console.log(usdcny(1000)); // 6750.00 Chinese Yuan

@@ -6,4 +6,4 @@
 // const findShort = (s) => Math.min(...s.split(' ').filter(a => a.length > 0).map(n => n.length))
 // ALTER (include " ") :
 const findShort = s => Math.min(...s.split(' ').map(a => a.length ))
-console.log(findShort("hda doah uas paa w asjasfj asoj fa afjafasj"));
+console.log(findShort("hda doah uas paa w asjasfj asoj fa afjafasj")); // 1

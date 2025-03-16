@@ -15,4 +15,5 @@
 // ONE LINE FUNCTION
 const evenOrOdd = (number) =>  number % 2 === 0 ? 'even' : 'odd';
 
-console.log(evenOrOdd(2));
+console.log(evenOrOdd(2)); // even
+console.log(evenOrOdd(3)); // odd

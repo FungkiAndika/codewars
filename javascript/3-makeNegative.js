@@ -9,4 +9,9 @@
 function makeNegative(num) {
     return -Math.abs(num)
 }
-console.log(makeNegative(-0.1));
+console.log(makeNegative(-0.1)); // -0.1
+console.log(makeNegative(0.1)); // -0.1
+console.log(makeNegative(0)); // 0
+console.log(makeNegative(1)); // -1
+console.log(makeNegative(-1)); // -1
+console.log(makeNegative(2)); // -2

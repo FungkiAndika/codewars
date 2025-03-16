@@ -9,4 +9,9 @@
 // ONE LINE SCRIPT
 // const booleanToString = (b) => b == Boolean | b == true ? b.toString() : b = "false";
 const booleanToString = b => (b == true).toString() 
-console.log(booleanToString());
+console.log(booleanToString()); // false
+console.log(booleanToString(true)); // true
+console.log(booleanToString(false)); // false
+console.log(booleanToString(1)); // true
+console.log(booleanToString(0)); // false
+console.log(booleanToString("true")); // false

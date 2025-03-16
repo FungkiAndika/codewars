@@ -3,4 +3,7 @@ function getCount(str) {
 }
 // ONE LINE
 // const getCount = str => str.split('').filter(c => 'aiueo'.includes(c)).length
-console.log(getCount("hello world"));
+console.log(getCount("hello world")); // 3
+console.log(getCount("hello")); // 2
+console.log(getCount("world")); // 1
+console.log(getCount("aeiou")); // 5

@@ -7,4 +7,7 @@ const maskify = cc => cc.length < 5 ? cc : cc.slice(0, cc.length-4).split('').ma
 // ALTER :
 // const maskify = cc => cc.slice(-4).padStart(cc.length,'#')
 // const maskify = cc => cc.slice(0, -4).replace(/./g, '#') + cc.slice(-4);
-console.log(maskify("qwerty"));
+console.log(maskify("qwerty")); // ####rty
+console.log(maskify("1234567890")); // ####567890
+console.log(maskify("12345")); // 12345
+console.log(maskify("1")); // 1

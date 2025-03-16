@@ -4,4 +4,4 @@
 
 //  ONE LINE
 const friend = (friends) => friends.filter(s => s.length == 4)
-console.log(friend(["Jimm", "Cari", "aret", "truehdnviegkwgvke", "sixtyiscooooool"]));
+console.log(friend(["Jimm", "Cari", "aret", "truehdnviegkwgvke", "sixtyiscooooool"])); // ["Jimm", "Cari", "aret"]
