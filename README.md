@@ -30,6 +30,7 @@ Navigate to the directory of the language you are interested in and run the scri
 The solutions in this repository are written in various programming languages, including but not limited to:
 
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
 
 ## Acknowledgments
 
