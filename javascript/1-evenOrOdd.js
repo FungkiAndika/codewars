@@ -12,7 +12,7 @@
 //     return number % 2 === 0 ? 'even' : 'odd';
 // }
 
-// ONE LINE FUNCTION
+// ARROW FUNCTION
 const evenOrOdd = (number) =>  number % 2 === 0 ? 'even' : 'odd';
 
 console.log(evenOrOdd(2)); // even

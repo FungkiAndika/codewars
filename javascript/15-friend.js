@@ -2,6 +2,6 @@
 //     return friends.filter(s => s.length == 4)
 // }
 
-//  ONE LINE
+//  ARROW FUNCTION
 const friend = (friends) => friends.filter(s => s.length == 4)
 console.log(friend(["Jimm", "Cari", "aret", "truehdnviegkwgvke", "sixtyiscooooool"])); // ["Jimm", "Cari", "aret"]

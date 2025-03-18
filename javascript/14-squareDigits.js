@@ -3,7 +3,7 @@
 //     return num.map((s,a) => s * a)
 // }
 
-// ONE LINE SCRIPT 
+// ARROW FUNCTION SCRIPT 
 const squareDigits = num => parseInt((num = num.toString().split('').map(Number)).map((f,s) => f * num[s]).join(''))
 
 // ALTER :

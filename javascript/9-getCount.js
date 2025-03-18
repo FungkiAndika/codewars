@@ -1,7 +1,7 @@
 function getCount(str) {
     return str.split('').filter(c => 'aiueo'.includes(c)).length
 }
-// ONE LINE
+// ARROW FUNCTION
 // const getCount = str => str.split('').filter(c => 'aiueo'.includes(c)).length
 console.log(getCount("hello world")); // 3
 console.log(getCount("hello")); // 2

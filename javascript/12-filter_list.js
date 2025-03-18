@@ -2,7 +2,7 @@
 //     return l.filter(a => typeof a === 'number')
 // }
 
-// ONE LINE SCRIPT
+// ARROW FUNCTION SCRIPT
 const filter_list = l => l.filter(a => typeof a === 'number')
 // ALTER :
 // const filter_list = l => l.filter(Number.isInteger)

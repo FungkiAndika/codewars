@@ -2,7 +2,7 @@
 //   return a * b
 // }
 
-// ONE LINE FUNCTION
+// ARROW FUNCTION
 const multiply = (a,b) => a*b
 
 console.log(multiply(2, 1)); // 2

@@ -13,7 +13,7 @@
 // For sum all number in array :
 // return arr.reduce((total, num) => total + num)
 
-// ONE LINE FUNCTION
+// ARROW FUNCTION
 const positiveSum = (arr) => arr.filter(n => n > 0).length == 0 ? arr = 0 : arr.filter(n => n > 0).reduce((total, num) => total + num, 0)
 
 // ALTER :
