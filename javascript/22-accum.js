@@ -2,7 +2,7 @@
 //     return s.toUpperCase().split('').map((a,b) => a + a.repeat(b).toLowerCase()).join('-')
 // }
 
-// ARROW FUNCTION                                   make param   repeating according to      to String
+// ARROW FUNCTION                             make param   repeating according to      to String
 //        parameter capitalize  make array  (letter)(index)    the index number       and add '-'
 //            ↓          ↓           ↓            ↓ ↓             ↓  ↓                   ↓
 const accum = s => s.toUpperCase().split('').map((a,b) => a+a.repeat(b).toLowerCase()).join('-')
