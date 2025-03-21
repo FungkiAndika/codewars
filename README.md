@@ -1,6 +1,6 @@
 # Codewars Challenge
 
-Welcome to the Codewars Challenge Scripts repository! This repository contains solutions to various coding challenges from [Codewars](https://www.codewars.com/).
+Solutions to various programming challenges from [Codewars](https://www.codewars.com/).
 
 ## Table of Contents
 
@@ -11,11 +11,11 @@ Welcome to the Codewars Challenge Scripts repository! This repository contains s
 
 ## Introduction
 
-This repository is a collection of scripts that solve coding challenges from Codewars. Each script is organized by language and challenge.
+A collection of scripts solving Codewars challenges, organized by language and challenge.
 
 ## Getting Started
 
-To get started, clone this repository to your local machine:
+Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/FungkiAndika/codewars.git
@@ -23,18 +23,15 @@ git clone https://github.com/FungkiAndika/codewars.git
 
 ## Usage
 
-Navigate to the directory of the language you are interested in and run the scripts using the appropriate interpreter or compiler.
+Run the scripts in the desired language directory using the appropriate interpreter or compiler.
 
 ## Languages
 
-The solutions in this repository are written in various programming languages, including but not limited to:
+Solutions are available in various programming languages, including:
 
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+- JavaScript
+- Python
 
 ## Acknowledgments
 
-- [Codewars](https://www.codewars.com/) for providing the challenges.
-- ![Codewars Badge](https://www.codewars.com/users/FungkiAndika/badges/small)
-
-
+- [Codewars](https://www.codewars.com/) for the challenges.
