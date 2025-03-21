@@ -6,7 +6,7 @@
 // }
 // ALTER :
 function getSum(a,b) {
-    // (count of element) * (a+b) / 2
+    // Using a mathematical formula → (count of element) * (a+b) / 2
     // 
     // to positive number 
     //            ↓
