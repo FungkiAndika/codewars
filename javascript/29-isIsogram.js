@@ -3,6 +3,6 @@ function isIsogram(str) {
     // ALTER :
     // return !/(\w).*\1/i.test(str)
 }
-console.log(isIsogram("Aa"));
-console.log(isIsogram("acbdd"));
-console.log(isIsogram("a"));
+console.log(isIsogram("Aa")); // false
+console.log(isIsogram("acbdd")); // false
+console.log(isIsogram("a")); // true
