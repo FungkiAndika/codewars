@@ -1,37 +1,5 @@
-# Codewars Challenge
-
-Solutions to various programming challenges from [Codewars](https://www.codewars.com/).
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Languages](#languages)
-
-## Introduction
-
-A collection of scripts solving Codewars challenges, organized by language and challenge.
-
-## Getting Started
-
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/FungkiAndika/codewars.git
-```
-
-## Usage
-
-Run the scripts in the desired language directory using the appropriate interpreter or compiler.
-
-## Languages
-
-Solutions are available in various programming languages, including:
-
-- JavaScript
-- Python
-
-## Acknowledgments
-
-- [Codewars](https://www.codewars.com/) for the challenges.
+<div align="center">
+  <h1><a href="https://www.codewars.com" >Codewars Challenge</a></h1>
+  <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"></img>
+  <img src="https://www.codewars.com/users/FungkiAndika/badges/large"></img>
+</div>
