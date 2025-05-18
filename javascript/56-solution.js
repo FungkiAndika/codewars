@@ -1,28 +1,26 @@
 function solution(text, markers) {
-    // const escapeRegExp = s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    // const regex = new RegExp(`[${markers.map(escapeRegExp).join("|")}]`, "g")
-    // return !markers? text+" ": text.split("\n")
-    // .map((line) => {
-    //     return markers.some(char => line.includes(char))?line.split(regex)[0]:line
-    // }).join("\n")
+    // if (markers.length == 0) {
+    //     return text.trimEnd()
+    // } else {
+    //     if (markers.length > 1) {
+    //         for (let i = 0; i < markers.length ; i++) {
+    //             const element = markers[i];
+    //             text = text.split('\n').map(a =>
+    //                 a.indexOf(element) >= 0 ? 
+    //                 a.slice(0,a.indexOf(element)-(a.length)).trimEnd() : a.trimEnd( )).join("\n")
+    //         }
+    //         return text
+    //     } else {
+    //         return text.split('\n').map(a =>
+    //             a.indexOf(markers) >= 0 ? 
+    //             a.slice(0,a.indexOf(markers)-(a.length)).trimEnd() : a.trimEnd( )).join("\n")
+    //     }
+    //  }
 
-    if (markers.length == 0) {
-        return text.trimEnd()
-    } else {
-        if (markers.length > 1) {
-            for (let i = 0; i < markers.length ; i++) {
-                const element = markers[i];
-                text = text.split('\n').map(a =>
-                    a.indexOf(element) >= 0 ? 
-                    a.slice(0,a.indexOf(element)-(a.length)).trimEnd() : a.trimEnd( )).join("\n")
-            }
-            return text
-        } else {
-            return text.split('\n').map(a =>
-                a.indexOf(markers) >= 0 ? 
-                a.slice(0,a.indexOf(markers)-(a.length)).trimEnd() : a.trimEnd( )).join("\n")
-        }
-     }
+    // ALTER :
+    return text.split("\n").map(str => markers
+        .reduce((a,c) => a.split(c)[0],str).trimEnd())
+        .join("\n")
 }
 
 const tests = [
