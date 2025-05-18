@@ -3,3 +3,63 @@
   <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"></img>
   <img src="https://www.codewars.com/users/FungkiAndika/badges/large"></img>
 </div>
+<h2>List & Link</h2>
+<h3>JAVASCRIPT :</h3>
+<ul>
+  <li><a href="https://www.codewars.com/kata/53da3dbb4a5168369a0000fe">1-evenOrOdd.js</a></li>
+  <li><a href="https://www.codewars.com/kata/50654ddff44f800200000004">2-multiply.js</a></li>
+  <li><a href="https://www.codewars.com/kata/55685cd7ad70877c23000102">3-makeNegative.js</a></li>
+  <li><a href="https://www.codewars.com/kata/523b4ff7adca849afe000035">4-greet.js</a></li>
+  <li><a href="https://www.codewars.com/kata/554b4ac871d6813a03000035">5-highAndLow.js</a></li>
+  <li><a href="https://www.codewars.com/kata/5467e4d82edf8bbf40000155">6-descendingOrder.js</a></li>
+  <li><a href="https://www.codewars.com/kata/585d7d5adb20cf33cb000235">7-findUniq.js</a></li>
+  <li><a href="https://www.codewars.com/kata/5977618080ef220766000022">8-usdcny.js</a></li>
+  <li><a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3">9-getCount.js</a></li>
+  <li><a href="https://www.codewars.com/kata/5715eaedb436cf5606000381">10-positiveSum.js</a></li>
+  <li><a href="https://www.codewars.com/kata/551b4501ac0447318f0009cd">11-booleanToString.js</a></li>
+  <li><a href="https://www.codewars.com/kata/53dbd5315a3c69eed20002dd">12-filter_list.js</a></li>
+  <li><a href="https://www.codewars.com/kata/52fba66badcd10859f00097e">13-disemvowel.js</a></li>
+  <li><a href="https://www.codewars.com/kata/546e2562b03326a88e000020">14-squareDigits.js</a></li>
+  <li><a href="https://www.codewars.com/kata/55b42574ff091733d900002f">15-friend.js</a></li>
+  <li><a href="https://www.codewars.com/kata/544aed4c4a30184e960010f4">16-divisors.js</a></li>
+  <li><a href="https://www.codewars.com/kata/5601409514fc93442500010b">17-betterThanAverage.js</a></li>
+  <li><a href="https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9">18-findShort.js</a></li>
+  <li><a href="https://www.codewars.com/kata/56747fd5cb988479af000028">19-getMiddle.js</a></li>
+  <li><a href="https://www.codewars.com/kata/5412509bd436bd33920011bc">20-maskify.js</a></li>
+  <li><a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e">21-isSquare.js</a></li>
+  <li><a href="https://www.codewars.com/kata/5667e8f4e3f572a8f2000039">22-accum.js</a></li>
+  <li><a href="https://www.codewars.com/kata/55f2b110f61eb01779000053">23-dnaStrand.js</a></li>
+  <li><a href="https://www.codewars.com/kata/55f2b110f61eb01779000053">24-twoSum.js</a></li>
+  <li><a href="https://www.codewars.com/kata/563b662a59afc2b5120000c6">25-nbYear.js</a></li>
+  <li><a href="https://www.codewars.com/kata/558fc85d8fd1938afb000014">26-sumTwoSmallestNumbers.js</a></li>
+  <li><a href="https://www.codewars.com/kata/5390bac347d09b7da40006f6">27-toJadenCase.js</a></li>
+  <li><a href="https://www.codewars.com/kata/55f2b110f61eb01779000053">28-getSum.js</a></li>
+  <li><a href="https://www.codewars.com/kata/54ba84be607a92aa900000f1">29-isIsogram.js</a></li>
+  <li><a href="https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d">30-solution.js</a></li>
+  <li><a href="https://www.codewars.com/kata/5265326f5fda8eb1160004c8">31-numberToString.js</a></li>
+  <li><a href="">32-doubleInteger.js</a></li>
+  <li><a href="https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa">33-openOrSenior.js</a></li>
+  <li><a href="https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3">34-abbrevName.js</a></li>
+  <li><a href="https://www.codewars.com/kata/5656b6906de340bd1b0000ac">35-longest.js</a></li>
+  <li><a href="https://www.codewars.com/kata/515e271a311df0350d00000f">36-squareSum.js</a></li>
+  <li><a href="https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a">37-past.js</a></li>
+  <li><a href="https://www.codewars.com/kata/55fd2d567d94ac3bc9000064">38-rowSumOddNumbers.js</a></li>
+  <li><a href="https://www.codewars.com/kata/576bb71bbbcf0951d5000044">39-countPositivesSumNegatives.js</a></li>
+  <li><a href="https://www.codewars.com/kata/514b92a657cdc65150000006">40-solution.js</a></li>
+  <li><a href="https://www.codewars.com/kata/5861d28f124b35723e00005e">41-zeroFuel.js</a></li>
+  <li><a href="https://www.codewars.com/kata/546f922b54af40e1e90001da">42-alphabetPosition.js</a></li>
+  <li><a href="https://www.codewars.com/kata/55908aad6620c066bc00002a">43-XO.js</a></li>
+  <li><a href="">44-lovefunc.js</a></li>
+  <li><a href="https://www.codewars.com/kata/5672a98bdbdd995fad00000f">45-rps.js</a></li>
+  <li><a href="https://www.codewars.com/kata/551f37452ff852b7bd000139">46-addBinary.js</a></li>
+  <li><a href="https://www.codewars.com/kata/576757b1df89ecf5bd00073b">47-towerBuilder.js</a></li>
+  <li><a href="https://www.codewars.com/kata/544675c6f971f7399a000e79">48-stringToNumber.js</a></li>
+  <li><a href="">49-isValidWalk.js</a></li>
+  <li><a href="https://www.codewars.com/kata/577a98a6ae28071780000989">50-minOrMax.js</a></li>
+  <li><a href="https://www.codewars.com/kata/57a0e5c372292dd76d000d7e">51-repeatStr.js</a></li>
+  <li><a href="">52-arrayDiff.js</a></li>
+  <li><a href="https://www.codewars.com/kata/55f8a9c06c018a0d6e000132">53-validatePIN.js</a></li>
+  <li><a href="https://www.codewars.com/kata/568ff914fc7a40a18500005c">54-distancesFromAverage.js</a></li>
+  <li><a href="https://www.codewars.com/kata/56541980fa08ab47a0000040">55-printerError.js</a></li>
+  <li><a href="https://www.codewars.com/kata/51c8e37cee245da6b40000bd">56-solution.js</a></li>
+</ul>
