@@ -10,6 +10,12 @@ function solution(text, markers) {
         return text.trimEnd()
     } else {
         if (markers.length > 1) {
+            for (let i = 0; i < markers.length ; i++) {
+                const element = markers[i];
+                text = text.split('\n').map(a =>
+                    a.indexOf(element) >= 0 ? 
+                    a.slice(0,a.indexOf(element)-(a.length)).trimEnd() : a.trimEnd( )).join("\n")
+            }
             return text
         } else {
             return text.split('\n').map(a =>
