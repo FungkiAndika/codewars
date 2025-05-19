@@ -1,8 +1,8 @@
 function wordSearch(query, seq) {
-    s = seq.filter(a => 
+    const res = seq.filter(a => 
         /* RegExp(query.toUpperCase()).test(a.toUpperCase()) OR */ 
         a.toUpperCase().includes(query.toUpperCase()))
-    return s.length == 0 ? ["Empty"]:s
+    return res.length == 0 ? ["Empty"]:res
 }
 
 const test  = [
