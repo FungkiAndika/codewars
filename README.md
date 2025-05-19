@@ -63,4 +63,5 @@
   <li><a href="https://www.codewars.com/kata/56541980fa08ab47a0000040">55-printerError.js</a></li>
   <li><a href="https://www.codewars.com/kata/51c8e37cee245da6b40000bd">56-solution.js</a></li>
   <li><a href="https://www.codewars.com/kata/54b81566cd7f51408300022d">57-wordSearch.js</a></li>
+  <li><a href="https://www.codewars.com/kata/517abf86da9663f1d2000003">58-toCamelCase.js</a></li>
 </ul>
